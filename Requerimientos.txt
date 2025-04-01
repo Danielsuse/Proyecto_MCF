@@ -1,0 +1,9 @@
+streamlit 
+pandas 
+numpy
+yfinance 
+matplotlib.pyplot
+cufflinks 
+scipy.stats import*
+warnings 
+plotly.express 
